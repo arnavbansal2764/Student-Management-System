@@ -79,7 +79,7 @@ Exit the Program
 1. Click the "Exit" button to close the program.
 2. Any unsaved data will be saved to a CSV file before exiting.
 
-##License
+## License
 In this README:
 
 - **Features**: Describe the main features of your program.
